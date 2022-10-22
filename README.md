@@ -1,7 +1,7 @@
 ## Me apresento como Daniel Fernando.
 
 - 👀 Estou interessado em aprendizado e experiência
-- 🌱 Estudando Javascript, react e outros ligado ao desenvolvimento Web
+- 🌱 Estudando C# .NET, Angular e outros
 - 📫 Email: danielfernando9101@gmail.com
 
 <div align="center">
