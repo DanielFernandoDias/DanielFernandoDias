@@ -1,8 +1,9 @@
 ## Me apresento como Daniel Fernando.
 
-- 👀 Estou interessado em aprendizado e experiência
-- 🌱 Estudando C# .NET, Angular e outros
+- 👀 Estou sempre interessado em aprendizado e experiência
+- 🌱 Experiência em C# .NET, Angular e sempre vivendo e aprendendo
 - 📫 Email: danielfernando9101@gmail.com
+- 🤝 https://www.linkedin.com/in/daniel-fernando-a3a063185/
 
 <div align="center">
   <a href="https://github.com/DanielFernandoDias">
